@@ -8,7 +8,7 @@
  *  model or design, are reserved.
  *
  *  Belgacom reserves the right to modify technical specifications and features.
- *
+ *wwee
  *  Technical specifications and features are binding only insofar as they
  *  are specifically and expressly agreed upon in a written contract.
  *
