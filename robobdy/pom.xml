@@ -26,7 +26,7 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
-		<!-- Web sdsd sds-->
+		<!-- Web sdsd sdsds-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
