@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication 
 public class AutoroboApplication extends SpringBootServletInitializer{
- 
+ //Application INIT
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(AutoroboApplication.class);
